@@ -1,10 +1,10 @@
 {
-  "name": "BetterDarkBlue",
+  "name": "Blue Fix",
   "description": "Darker than dark, with a twist of blue.",
   "color": "#A5C4FF",
   "authors": [
     {
-      "name": "darealyeeto",
+      "name": "darealyeeto, Nika Ito",
       "id": "980160393093730395"
     }
   ],
@@ -75,10 +75,6 @@
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#000000",
-      "#ffffff"
-    ],
-    "BACKGROUND_MENTIONED": [
-      "#333333",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
