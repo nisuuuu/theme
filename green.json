@@ -84,7 +84,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#89D59E",
+      "hsla(137, 48%, 69%, 0.2)",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
